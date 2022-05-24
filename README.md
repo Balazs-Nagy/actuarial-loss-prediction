@@ -1,5 +1,7 @@
 # Actuarial loss prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balazs-Nagy/actuarial-loss-prediction/blob/main/Actuarial_loss_prediction.ipynb)
+
 This project work was prepared for the closure of the [Mathematics Expert in Data Analytics and Machine Learning](https://ai.elte.hu/) postgraduate specialization program first offered in 2021/22 by the Institute of Mathematics of Eötvös Loránd University.
 
 ## Origin
